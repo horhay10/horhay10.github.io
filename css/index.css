@@ -5,8 +5,11 @@ img{
     display: inline;
     float:left;
     caption-side: right;
+    margin: 2px 25px;
 }
-.biography{
+.bio{
+    margin: 5px 5px;
     display: inline;
     position: relative;
+    font-size: 130%;
 }
