@@ -24,6 +24,7 @@ footer {
     position: relative;
     display: inline;
     white-space: nowrap;
+    padding-left: .5em;
     word-spacing: 1em;
 
 }
