@@ -2,6 +2,7 @@
 layout: post
 title: "Longer Sample Post"
 date: 2017-09-15
+categories: story
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">
 Gumbo is a stew that may have originated in West Africa or

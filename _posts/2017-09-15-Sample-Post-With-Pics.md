@@ -2,6 +2,7 @@
 layout: post
 title: "Sample Post With Pics"
 date: 2017-09-15
+categories: story
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">
 The emu (Dromaius novaehollandiae) is the second-largest living bird by height, after its ratite relative, the ostrich. It is endemic to Australia where it is the largest native bird and the only extant member of the genus Dromaius. The emu's range covers most of mainland Australia, but the Tasmanian emu and King Island emu subspecies became extinct after the European settlement of Australia in 1788. The bird is sufficiently common for it to be rated as a least-concern species by the International Union for Conservation of Nature.

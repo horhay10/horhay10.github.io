@@ -6,7 +6,7 @@ layout: default
 
     <ul class="posts">
         <h2>Stories:</h2>
-	  {% for post in site.posts %}
+	  {% for post in site.categories.story %}
 
 	  	<div class="title">
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br></li>
