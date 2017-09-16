@@ -6,5 +6,5 @@ categories: picture
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">
 <link href="/css/photos.css" type="text/css" rel="stylesheet">
-<img data-src="https://horhay10.github.io/assets/pictures/2.jpg"
+<img data-src="/assets/pictures/2.jpg"
  class="lazyload" alt="Reporter">
