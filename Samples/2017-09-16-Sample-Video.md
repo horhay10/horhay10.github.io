@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sample Video"
-date: YEAR-MM-DD
+date: 2017-09-16
 categories: video
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">

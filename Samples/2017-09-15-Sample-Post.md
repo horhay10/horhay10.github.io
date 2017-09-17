@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Longer Sample Post"
-date: YEAR-MM-DD
+date: 2017-09-16
 categories: story
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">

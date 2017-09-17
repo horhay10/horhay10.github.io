@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Single picture"
-date: YEAR-MM-DD
+date: 2017-09-16
 categories: picture
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">
