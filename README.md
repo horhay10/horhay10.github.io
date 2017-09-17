@@ -36,11 +36,12 @@ title: "Sample Video"
 date: year-mm-dd
 categories: video
 ---
+```
 I'll leave a template for future posts, pictures, and videos in the sample folder.
 
-I have no good way to show you how to add files so I'll probably just make a youtube video and post the link below
-
-
+Below is a link to a video on how to post on your website.
+<p><a href="https://youtu.be/2gLOj3H4xMU">Video Instructions</a>
+</p>
 ```
 Kramdown Cheat Sheet
 
