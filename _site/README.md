@@ -28,7 +28,15 @@ date: year-mm-dd
 categories: picture
 ---
 ```
-I'll leave sample posts and pictures in the sample folder.
+Finally what is shown below if it is a video
+```
+---
+layout: post
+title: "Sample Video"
+date: year-mm-dd
+categories: video
+---
+I'll leave a template for future posts, pictures, and videos in the sample folder.
 
 I have no good way to show you how to add files so I'll probably just make a youtube video and post the link below
 
