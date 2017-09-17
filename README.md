@@ -9,7 +9,7 @@ Secondly, whenever you write a story or want to post a picture you have to creat
 year-mm-dd-Title-Seperated-by-dashes.md
 
 it has to end in .md not .txt or .doc or anything else
-and the first lines in your document have to be
+and the first lines in your document have to be what is shown below if it is a story
 ```
 ---
 layout: post
@@ -18,7 +18,7 @@ date: year-mm-dd
 categories: story
 ---
 ```
-if it is a story or
+Or it should be what is shown below here if it is a picture
 ```
 ---
 layout: post
@@ -27,14 +27,15 @@ date: year-mm-dd
 categories: picture
 ---
 ```
-I'll leave sample documents in the sample folder.
-I'll make a video and post it on youtube.
-How to
+I'll leave sample posts and pictures in the sample folder.
+
+I have no good way to show you how to add files so I'll probably just make a youtube video and post the link below
+
 
 ```
 Kramdown Cheat Sheet
 
-<p> This is how you should seperate paragraphs</p>
+<p> This is how you should separate paragraphs</p>
 <p> New Paragraph here</p>
 
 <p>To do line breaks you <br />
@@ -64,12 +65,16 @@ This is also a block <br />
 quote!
 </blockquote>
 
+This is how to make a numerical list
+
 <ol>
   <li>This is a list item</li>
   <li>And another item</li>
   <li>And the third one
 with additional text</li>
 </ol>
+
+this is how to make bullet pointed list
 
 <ul>
   <li>This is a list item</li>
