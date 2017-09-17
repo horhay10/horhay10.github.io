@@ -1,0 +1,9 @@
+.media{
+    width: 50vw;
+    display: block;
+
+}
+.title{
+    font-weight: bold;
+    max-width: 1000px;
+}

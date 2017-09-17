@@ -2,16 +2,20 @@
 layout: default
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">
-<ul class="posts">
-    <h2>Videos:</h2>
-  {% for post in site.categories.video %}
+<link href="/css/videos.css" type="text/css" rel="stylesheet">
+    <ul class="posts">
+        <h2>Videos:</h2>
+        <div class="lazyload">
+	  {% for post in site.categories.video %}
 
-    <div class="lazyload">
-    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br></li>
-    </div>
-    <br>
-
-    <p> <article>{{ post.excerpt }}</article</p>
-    <br>
-  {% endfor %}
-</ul>
+	  	<div class="title">
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br></li>
+		</div>
+		<br>
+        <div class="vids">
+		<p> {{ post.excerpt }}</p>
+        </div>
+		<br>
+	  {% endfor %}
+  </div>
+	</ul>
