@@ -2,10 +2,9 @@
 layout: default
 ---
 <link href="/css/posts.css" type="text/css" rel="stylesheet">
-<link href="/css/photos.css" type="text/css" rel="stylesheet">
 <ul class="posts">
-    <h2>Photos:</h2>
-  {% for post in site.categories.picture %}
+    <h2>Videos:</h2>
+  {% for post in site.categories.video %}
 
     <div class="lazyload">
     <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br></li>

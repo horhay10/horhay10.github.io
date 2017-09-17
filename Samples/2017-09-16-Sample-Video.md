@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Sample Video"
+date: YEAR-MM-DD
+categories: video
+---
+<link href="/css/posts.css" type="text/css" rel="stylesheet">
+<div class="media">
+    <div class="videoWrapper">
+        <!-- Only replace this part with video to embed, and change date -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0s8a-lxXu68?rel=0" frameborder="0" allowfullscreen></iframe>
+        <!-- Video part ends here -->
+    </div>
+</div>

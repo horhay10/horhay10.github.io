@@ -9,7 +9,8 @@ Secondly, whenever you write a story or want to post a picture you have to creat
 year-mm-dd-Title-Seperated-by-dashes.md
 
 it has to end in .md not .txt or .doc or anything else
-and the first lines in your document have to be what is shown below if it is a story
+
+The first lines in your document have to be what is shown below if it is a story
 ```
 ---
 layout: post
