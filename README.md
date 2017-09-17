@@ -10,28 +10,28 @@ year-mm-dd-Title-Seperated-by-dashes.md
 
 it has to end in .md not .txt or .doc or anything else
 and the first lines in your document have to be
-
+```
 ---
 layout: post
 title: "Sample post"
 date: year-mm-dd
 categories: story
 ---
-
+```
 if it is a story or
-
+```
 ---
 layout: post
 title: "Picture of Cat"
 date: year-mm-dd
 categories: picture
 ---
-
+```
 I'll leave sample documents in the sample folder.
 I'll make a video and post it on youtube.
 How to
 
-<!--
+```
 Kramdown Cheat Sheet
 
 <p> This is how you should seperate paragraphs</p>
@@ -81,4 +81,5 @@ with additional text</li>
 <p>Finally you add links like this linked below is my reference to krandown's website.<br />
 
 <p><a href="https://kramdown.gettalong.org/quickref.html">You can brush up here too!</a>
-</p> -->
+</p>
+```
