@@ -42,7 +42,9 @@ I'll leave a template for future posts, pictures, and videos in the sample folde
 Below is a link to a video on how to post on your website.
 <p><a href="https://youtu.be/2gLOj3H4xMU">Video Instructions</a>
 </p>
+
 ```
+
 Kramdown Cheat Sheet
 
 <p> This is how you should separate paragraphs</p>
